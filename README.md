@@ -5,7 +5,3 @@
 <!-- &layout=레이아웃 스타일&theme=스타일 -->
 
 ![Syshin0116's github stats](https://github-readme-stats.vercel.app/api?username=syshin0116&show_icons=true)
-
-
-	
-![image]<script src="https://gist.github.com/syshin0116/c6a140a6802ac6b3311d707e9d3687ab.js"></script>
