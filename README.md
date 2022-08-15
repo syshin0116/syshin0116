@@ -22,7 +22,7 @@
   
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://syshin0116.github.io/)](https://syshin0116.github.io/)
 
-  [Syshin's Github BlogL https://syshin0116.github.io](https://syshin0116.github.io)
+  [Syshin's Github Blog: https://syshin0116.github.io](https://syshin0116.github.io)
   
 </div>
   
