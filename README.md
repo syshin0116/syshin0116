@@ -1,6 +1,6 @@
 <div align="center" style="text-align:center">
   
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=syshin's%20github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=syshin's%20github&fontSize=90)
   
 
 
@@ -20,6 +20,8 @@
 
 <div align="center" style="text-align:center">
   
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://syshin0116.github.io/)](https://syshin0116.github.io/)
+
   [Syshin's Github BlogL https://syshin0116.github.io](https://syshin0116.github.io)
   
 </div>
