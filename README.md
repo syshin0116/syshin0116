@@ -1,4 +1,6 @@
+<div align="center" style="text-align:center">
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=syshin's%20github&fontSize=90)
+</div>
 
 <p align="center"> Techs that I've used at least once </p>
 <p align="center">
