@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=syshin's%20github&fontSize=90)
   
-</div>
+
 
 <p align="center"> Techs that I've used at least once </p>
 <p align="center">
@@ -20,7 +20,7 @@
 
 <div align="center" style="text-align:center">
   
-  [![Velog's GitHub stats](https://syshin0116.github.io)](syshin0116.github.io)
+  [![Github.io link](https://syshin0116.github.io)](https://syshin0116.github.io)
   
 </div>
   
@@ -32,3 +32,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syshin0116)
 <!-- &layout=레이아웃 스타일&theme=스타일 -->
 ![Syshin0116's github stats](https://github-readme-stats.vercel.app/api?username=syshin0116&show_icons=true)
+
+</div>
