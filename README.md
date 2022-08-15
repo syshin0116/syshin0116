@@ -20,7 +20,7 @@
 
 <div align="center" style="text-align:center">
   
-  [![Github.io link](https://syshin0116.github.io)](https://syshin0116.github.io)
+  [Syshin's Github Blog](https://syshin0116.github.io)
   
 </div>
   
