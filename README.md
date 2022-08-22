@@ -15,7 +15,7 @@
 
 </p>
 <hr>
-<h3 align="center">🧑‍💻🧑 Contacts:</h3>
+<h3 align="center">🧑‍💻 Contacts:</h3>
 
 <div align="center" style="text-align:center">
   
