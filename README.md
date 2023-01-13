@@ -34,8 +34,6 @@
 <h3 align="center">👨🏻‍💻 Github Info:</h3>
 
   ![Syshin0116's github stats](https://github-readme-stats.vercel.app/api?username=syshin0116&show_icons=true)
-
-  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syshin0116)
 
   
