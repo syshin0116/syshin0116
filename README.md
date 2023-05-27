@@ -34,13 +34,14 @@
 <hr>
 <h3 align="center">👨🏻‍💻 Github Info:</h3>
 
-  ![Syshin0116's github stats](https://github-readme-stats.vercel.app/api?username=syshin0116&show_icons=true)
+<!--   ![Syshin0116's github stats](https://github-readme-stats.vercel.app/api?username=syshin0116&show_icons=true) -->
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syshin0116)
+<!--   [![Syshin0116's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=syshin0116&layout=compact)](https://github.com/syshin0116/github-readme-stats) -->
+
 
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsyshin0116&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!-- [![Syshin0116's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=syshin0116)](https://github.com/syshin0116/github-readme-stats) -->
 
 </div>
 </div>
