@@ -44,7 +44,7 @@
 <hr>
 <h3 align="center">👨🏻‍💻 Projects:</h3>
 
-![Men-in-Black](https://github.com/syshin0116/Men-in-Black)
+[Men-in-Black](https://github.com/syshin0116/Men-in-Black)
 
 </div>
 </div>
