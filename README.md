@@ -43,14 +43,14 @@
   
 <br>
 <hr>
-<h3 align="center">👨🏻‍💻 Github Info:</h3>
+<!-- <h3 align="center">👨🏻‍💻 Github Info:</h3> -->
 
 <!--   ![Syshin0116's github stats](https://github-readme-stats.vercel.app/api?username=syshin0116&show_icons=true) -->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syshin0116)
+<!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syshin0116) -->
 <!--   [![Syshin0116's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=syshin0116&layout=compact)](https://github.com/syshin0116/github-readme-stats) -->
 
 <br>
-<hr>
+<!-- <hr> -->
 <!-- 
 <h3 align="center">👨🏻‍💻 Projects:</h3>
 
