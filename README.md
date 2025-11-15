@@ -26,7 +26,6 @@
   
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=github&link=https://syshin0116.github.io/)](https://syshin0116.github.io/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:syshin0116@gmail.com)](mailto:syshin0116@gmail.com)
-  [![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000&link=https://syshin0116.github.io/)](https://syshin0116.github.io/)
 </div>
   
 <br>
